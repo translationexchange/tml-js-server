@@ -2,13 +2,13 @@
   <img src="https://avatars0.githubusercontent.com/u/1316274?v=3&s=200">
 </p>
 
-Tml for Node Express
+Tml for Node.JS
 ===
 
-[![Dependency status](https://david-dm.org/translationexchange/tml-js-express/status.png)](https://david-dm.org/translationexchange/tml-js-express#info=dependencies&view=table) 
-[![Dev Dependency Status](https://david-dm.org/translationexchange/tml-js-express/dev-status.png)](https://david-dm.org/translationexchange/tml-js-express#info=devDependencies&view=table)
+[![Dependency status](https://david-dm.org/translationexchange/tml-js-server/status.png)](https://david-dm.org/translationexchange/tml-js-server#info=dependencies&view=table) 
+[![Dev Dependency Status](https://david-dm.org/translationexchange/tml-js-server/dev-status.png)](https://david-dm.org/translationexchange/tml-js-server#info=devDependencies&view=table)
 
-[![NPM](https://nodei.co/npm/tml-express.png?downloads=true)](https://nodei.co/npm/tml-express) 
+[![NPM](https://nodei.co/npm/tml-server.png?downloads=true)](https://nodei.co/npm/tml-server)
 
 This library provides extensions to TML library for running inside node express frameworks. 
 
@@ -16,7 +16,7 @@ This library provides extensions to TML library for running inside node express 
 Documentation
 ==================
 
-Please read about how to setup and use this library at:
+If you are using Express.JS framework, please refer to:
 
 http://translationexchange.com/docs/sdk/node
 
@@ -24,7 +24,7 @@ http://translationexchange.com/docs/sdk/node
 Links
 ==================
 
-* Register on TranslationExchange.com: http://translationexchange.com
+* Register on TranslationExchange.com: https://translationexchange.com
 
 * Follow TranslationExchange on Twitter: https://twitter.com/translationx
 
