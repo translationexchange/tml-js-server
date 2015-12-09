@@ -36,7 +36,7 @@
   ],
   "main": "./lib",
   "dependencies": {
-    "tml-js": "~0.4.1",
+    "tml-js": "~0.4.9",
     "request": "~2.61.0"
   },
   "devDependencies": {
