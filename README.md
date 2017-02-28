@@ -18,7 +18,7 @@ Documentation
 
 If you are using Express.JS framework, please refer to:
 
-http://translationexchange.com/docs/sdk/node
+http://docs.translationexchange.com/express-quickstart/
 
 
 Links
