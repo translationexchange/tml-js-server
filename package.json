@@ -1,7 +1,7 @@
 {
   "name": "tml-server",
   "description": "Translation Markup Language for Server-Side Integrations",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "author": {
     "name": "Michael Berkovich",
     "email": "michael@translationexchange.com"
@@ -39,7 +39,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "tml-js": "~1.0.2",
+    "tml-js": "~1.0.10",
     "request": "~2.61.0",
     "memcached": "~2.2.0",
     "redis": "~0.12.1"
